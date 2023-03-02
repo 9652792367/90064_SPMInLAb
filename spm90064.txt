@@ -1,0 +1,4 @@
+git commands
+git push
+git init
+git config
